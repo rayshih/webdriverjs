@@ -26,3 +26,5 @@ examples/takescreenshots.js
 *.log
 *.lck
 *.png
+
+*.swp
