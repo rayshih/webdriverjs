@@ -1,7 +1,7 @@
 {
   "name": "webdriverjs-rs-hotfix",
   "description": "A nodejs bindings implementation for selenium 2.0/webdriver",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "author": "camilo tapia <camilo.tapia@gmail.com>",
   "contributors": [
     "Dan Jenkins <dan.jenkins@holidayextras.com>",
