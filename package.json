@@ -10,15 +10,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/camme/webdriverjs.git"
+    "url": "git://github.com/rayshih/webdriverjs.git"
   },
   "bugs": {
-    "url": "https://github.com/camme/webdriverjs/issues"
+    "url": "https://github.com/rayshih/webdriverjs/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/camme/webdriverjs/blob/master/LICENSE-MIT"
+      "url": "https://github.com/rayshih/webdriverjs/blob/master/LICENSE-MIT"
     }
   ],
   "main": "./index",
